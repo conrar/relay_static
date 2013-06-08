@@ -31,7 +31,7 @@ html, body {
 
 body {
 	font-family: Futura, "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
-	background: #f39c12;
+	background: #f0b92e;
 	margin:0;
 }
 
@@ -99,7 +99,8 @@ h5 {
 
 h1, h2, h3, p {
 	line-height: 1.25em;
-	text-align: left
+	text-align: left;
+	color:#242424;
 }
 
 p {
@@ -138,7 +139,7 @@ NAVIGATION STYLES
 
 header {
 	height: 55px;
-	background-color: #333;
+	background-color: #242424;
 	margin-bottom: 25px;
 	overflow: hidden;
 }
@@ -177,7 +178,7 @@ FOOTER STYLES
 	height: 60px;
 	margin: 0 auto;
 	padding: 0;
-	color: #333;
+	color: #242424;
 }
 
 .footer p {
@@ -198,7 +199,7 @@ GENERAL LAYOUT
 section {
 	padding: 30px 0;
 	margin: 0 0 20px 0;
-	background-color: #f39c12;
+	background-color: #f0b92e;
 }
 .mainbar {
 	width: 670px;
@@ -255,7 +256,7 @@ SPECIFIC CLASSES
 }
 .progress_bar {
 	height: 15px;
-	background-color: #88f;
+	background-color: #29A4D0;
 }
 
 .miles {
